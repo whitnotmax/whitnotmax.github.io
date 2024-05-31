@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/restroom_reports/static/css/main.5e4d9050.css",
-    "main.js": "/restroom_reports/static/js/main.59df1626.js",
+    "main.js": "/restroom_reports/static/js/main.2fbe97a3.js",
     "static/js/592.28971638.chunk.js": "/restroom_reports/static/js/592.28971638.chunk.js",
     "static/media/goldToilet.jpg": "/restroom_reports/static/media/goldToilet.97a7da11d8734262216c.jpg",
     "static/media/logo.svg": "/restroom_reports/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/restroom_reports/index.html",
     "main.5e4d9050.css.map": "/restroom_reports/static/css/main.5e4d9050.css.map",
-    "main.59df1626.js.map": "/restroom_reports/static/js/main.59df1626.js.map",
+    "main.2fbe97a3.js.map": "/restroom_reports/static/js/main.2fbe97a3.js.map",
     "592.28971638.chunk.js.map": "/restroom_reports/static/js/592.28971638.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5e4d9050.css",
-    "static/js/main.59df1626.js"
+    "static/js/main.2fbe97a3.js"
   ]
 }
