@@ -1,0 +1,34 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+
+}
+
+#name {
+    font-size: 400%;
+    margin-top: 30vh;
+    margin-bottom: 0px;
+    overflow-wrap: break-word;
+}
+
+.top-link {
+    position: relative;
+    padding: 10px;
+    font-size: large;
+    margin: 0px;
+    padding-left: 0px;
+
+}
+
+img {
+    padding-left: 10px;
+}
+
+#projects {
+    margin-top: 10vh;
+}
+
+
+#projects-label {
+    font-weight: bold;
+    margin-bottom: 4px;
+}
